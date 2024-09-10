@@ -155,24 +155,7 @@ Admin Dashboard
 
 ![admin ](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/5a3a856a-e26c-4e83-8179-1bb4da6ee810)
 
-## Login
 
-**Student**
- ```bash
-email: student@gmail.com
-Password: pass123
- ```
-**Teacher**
- ```bash
-email: teacher@gmail.com
-Password: pass123
- ```
-**Admin**
- ```bash
-email: admin@gmail.com
-Password: admin
- ```
-**Note: Don't Spam**
 
 ## Contributing
 
